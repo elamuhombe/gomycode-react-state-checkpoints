@@ -1,0 +1,50 @@
+/* Resetting margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Styling for the container with class "persons" */
+.persons {
+  margin: 40px; /* Margin around the container */
+  margin-inline: auto; /* Center the container horizontally */
+  width: 50vh; /* 50% of the viewport height */
+  height: 300px; /* Fixed height for the container */
+  display: flex; /* Use flexbox layout */
+  flex-direction: column; /* Stack children in a column */
+  justify-content: center; /* Center children vertically */
+  align-items: center; /* Center children horizontally */
+  border: rgb(170, 170, 176) 2px solid; /* Border color and width */
+  border-radius: 10px; /* Border radius for rounded corners */
+}
+
+/* Styling for text elements with class "texts" */
+.texts {
+  margin: 5px; /* Margin around text elements */
+}
+
+/* Styling for images */
+img {
+  width: 100px; /* Fixed width for images */
+  height: 100px; /* Fixed height for images */
+}
+
+/* Styling for elements with class "Time" */
+.Time {
+  font-size: 18px; /* Font size */
+  margin-top: 10px; /* Margin on top for spacing */
+  color: #333; /* Text color */
+  margin-left: 200px; /* Margin on the left for positioning */
+}
+
+/* Styling for elements with class "Button" */
+Button {
+  margin-top: 20px; /* Margin on top for spacing */
+  margin-left: 200px; /* Margin on the left for positioning */
+  font-size: 14px; /* Font size */
+  background-color: rgb(235, 187, 96); /* Background color */
+  border-color: rgb(235, 187, 96); /* Border color */
+  border-radius: 5px; /* Border radius for rounded corners */
+  width: 100px; /* Fixed width for the button */
+  height: 30px; /* Fixed height for the button */
+}
