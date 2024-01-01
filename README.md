@@ -31,6 +31,15 @@ npm start
 ## Project Structure
 ![react-state](https://github.com/elamuhombe/gomycode-react-state-checkpoints/assets/10416177/1bea1eed-1549-4f2a-a1d4-592476cfa578)
 
+## Screenshots
+Before user clicks the button
+![before](https://github.com/elamuhombe/gomycode-react-state-checkpoints/assets/10416177/80be1f03-e4bd-4e4a-bd20-0de63954def2)
+
+
+After user has clicked the button
+![after](https://github.com/elamuhombe/gomycode-react-state-checkpoints/assets/10416177/431736f4-14e9-4338-9ec6-5117ebed463c)
+
+
 ## Author
 The project is developed by Elaine Muhombe
 
